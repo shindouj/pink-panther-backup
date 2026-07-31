@@ -36,6 +36,11 @@
     "scroll_throw": 25,
     "touch_device": ""
   },
+  "label_printer": {
+    "address": "10.21.37.18",
+    "port": 631,
+    "protocol": "ipp"
+  },
   "language": "en",
   "log_path": "/tmp/helixscreen.log",
   "motion": {
