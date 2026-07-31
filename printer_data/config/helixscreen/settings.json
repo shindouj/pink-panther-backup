@@ -38,8 +38,10 @@
   },
   "label_printer": {
     "address": "nagasaki.jeikobu.pl",
+    "label_size": 0,
     "port": 9100,
-    "protocol": "ipp"
+    "protocol": "ipp",
+    "type": "network"
   },
   "language": "en",
   "log_path": "/tmp/helixscreen.log",
