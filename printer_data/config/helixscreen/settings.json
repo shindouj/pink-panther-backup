@@ -183,7 +183,8 @@
           "heater_fan hotend_fan",
           "output_pin caselight",
           "filament_switch_sensor O2_sensor",
-          "fan_generic nevermore"
+          "fan_generic nevermore",
+          "controller_fan controller_fan_1"
         ],
         "last_snapshot": {
           "fans": [
