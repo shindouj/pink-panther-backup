@@ -37,8 +37,8 @@
     "touch_device": ""
   },
   "label_printer": {
-    "address": "10.21.37.18",
-    "port": 631,
+    "address": "nagasaki.jeikobu.pl",
+    "port": 9100,
     "protocol": "ipp"
   },
   "language": "en",
