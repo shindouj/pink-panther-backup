@@ -41,7 +41,7 @@
     "label_size": 0,
     "port": 9100,
     "protocol": "raw",
-    "type": "bluetooth"
+    "type": "network"
   },
   "language": "en",
   "log_path": "/tmp/helixscreen.log",
