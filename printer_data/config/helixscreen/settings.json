@@ -40,7 +40,7 @@
     "address": "nagasaki.jeikobu.pl",
     "label_size": 0,
     "port": 9100,
-    "preset": 1,
+    "preset": 0,
     "protocol": "raw",
     "type": "network"
   },
@@ -51,15 +51,6 @@
   },
   "print_start_history": {
     "entries": [
-      {
-        "phases": {
-          "7": 309,
-          "9": 14
-        },
-        "temp_bucket": 2,
-        "timestamp": 1785347080,
-        "total": 350
-      },
       {
         "phases": {
           "7": 305,
@@ -142,6 +133,16 @@
         "temp_bucket": 2,
         "timestamp": 1785576756,
         "total": 468
+      },
+      {
+        "phases": {
+          "2": 5,
+          "7": 403,
+          "9": 14
+        },
+        "temp_bucket": 2,
+        "timestamp": 1785607435,
+        "total": 457
       }
     ]
   },
@@ -172,6 +173,21 @@
         "exhaust": "fan_generic exhaust_fan",
         "hotend": "heater_fan hotend_fan",
         "part": "fan"
+      },
+      "filament": {
+        "external_spool": {
+          "assigned": true,
+          "bed_temp": 110,
+          "brand": "Filhub",
+          "color_rgb": 14980780,
+          "material": "ABS",
+          "nozzle_temp_max": 0,
+          "nozzle_temp_min": 0,
+          "remaining_weight_g": 282.9988098144531,
+          "spool_name": "Filhub ABS - High Speed ABS Pink",
+          "spoolman_id": 4,
+          "total_weight_g": 1000.0
+        }
       },
       "filament_sensors": {
         "master_enabled": true,
@@ -619,7 +635,7 @@
   "thermal": {
     "rates": {
       "extruder": {
-        "heat_rate": 3.1124343872070313
+        "heat_rate": 3.0172359943389893
       },
       "heater_bed": {
         "heat_rate": 4.832082748413086
