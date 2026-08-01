@@ -53,15 +53,6 @@
     "entries": [
       {
         "phases": {
-          "7": 320,
-          "9": 14
-        },
-        "temp_bucket": 2,
-        "timestamp": 1785324938,
-        "total": 358
-      },
-      {
-        "phases": {
           "7": 309,
           "9": 14
         },
@@ -141,6 +132,16 @@
         "temp_bucket": 2,
         "timestamp": 1785527911,
         "total": 376
+      },
+      {
+        "phases": {
+          "2": 5,
+          "7": 412,
+          "9": 19
+        },
+        "temp_bucket": 2,
+        "timestamp": 1785576756,
+        "total": 468
       }
     ]
   },
@@ -223,7 +224,7 @@
             "temperature_sensor Cartographer_MCU",
             "temperature_fan controller_fan_2"
           ],
-          "timestamp": "2026-08-01T09:24:25Z"
+          "timestamp": "2026-08-01T09:24:44Z"
         },
         "optional": []
       },
@@ -618,7 +619,7 @@
   "thermal": {
     "rates": {
       "extruder": {
-        "heat_rate": 3.365386724472046
+        "heat_rate": 3.1124343872070313
       },
       "heater_bed": {
         "heat_rate": 4.832082748413086
