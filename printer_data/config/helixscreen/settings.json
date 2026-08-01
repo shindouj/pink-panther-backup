@@ -178,14 +178,14 @@
         "external_spool": {
           "assigned": true,
           "bed_temp": 110,
-          "brand": "Filhub",
-          "color_rgb": 14980780,
-          "material": "ABS",
+          "brand": "Spectrum",
+          "color_rgb": 987926,
+          "material": "ASA",
           "nozzle_temp_max": 0,
           "nozzle_temp_min": 0,
-          "remaining_weight_g": 275.2828063964844,
-          "spool_name": "Filhub ABS - High Speed ABS Pink",
-          "spoolman_id": 4,
+          "remaining_weight_g": 940.0,
+          "spool_name": "Spectrum ASA - The Filament Black",
+          "spoolman_id": 3,
           "total_weight_g": 1000.0
         }
       },
