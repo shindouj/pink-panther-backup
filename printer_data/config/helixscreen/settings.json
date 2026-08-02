@@ -53,15 +53,6 @@
     "entries": [
       {
         "phases": {
-          "7": 79,
-          "9": 77
-        },
-        "temp_bucket": 2,
-        "timestamp": 1785520370,
-        "total": 541
-      },
-      {
-        "phases": {
           "7": 314,
           "9": 14
         },
@@ -143,6 +134,15 @@
         "temp_bucket": 2,
         "timestamp": 1785673882,
         "total": 363
+      },
+      {
+        "phases": {
+          "7": 384,
+          "9": 14
+        },
+        "temp_bucket": 2,
+        "timestamp": 1785677575,
+        "total": 419
       }
     ]
   },
@@ -183,7 +183,7 @@
           "material": "ASA",
           "nozzle_temp_max": 0,
           "nozzle_temp_min": 0,
-          "remaining_weight_g": 826.2613525390625,
+          "remaining_weight_g": 821.2890625,
           "spool_name": "Spectrum ASA - The Filament Black",
           "spoolman_id": 3,
           "total_weight_g": 1000.0
@@ -635,7 +635,7 @@
   "thermal": {
     "rates": {
       "extruder": {
-        "heat_rate": 2.714343786239624
+        "heat_rate": 2.9263570308685303
       },
       "heater_bed": {
         "heat_rate": 4.832082748413086
