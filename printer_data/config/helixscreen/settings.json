@@ -176,15 +176,15 @@
       "filament": {
         "external_spool": {
           "assigned": true,
-          "bed_temp": 110,
-          "brand": "Spectrum",
-          "color_rgb": 987926,
-          "material": "ASA",
+          "bed_temp": 105,
+          "brand": "Sunlu",
+          "color_rgb": 16711680,
+          "material": "ABS",
           "nozzle_temp_max": 0,
           "nozzle_temp_min": 0,
-          "remaining_weight_g": 694.3678588867188,
-          "spool_name": "Spectrum ASA - The Filament Black",
-          "spoolman_id": 3,
+          "remaining_weight_g": 189.0,
+          "spool_name": "Sunlu ABS - Red",
+          "spoolman_id": 1,
           "total_weight_g": 1000.0
         }
       },
