@@ -10,7 +10,7 @@
     "gcode_render_mode": 0,
     "gpu_3d_blocked": false,
     "gpu_blur_blocked": false,
-    "screensaver_type": 2,
+    "screensaver_type": 3,
     "sleep_sec": 1200,
     "theme": "pink-panther",
     "time_format": 1,
@@ -51,15 +51,6 @@
   },
   "print_start_history": {
     "entries": [
-      {
-        "phases": {
-          "7": 335,
-          "9": 14
-        },
-        "temp_bucket": 2,
-        "timestamp": 1785609198,
-        "total": 376
-      },
       {
         "phases": {
           "7": 65,
@@ -142,6 +133,15 @@
         "temp_bucket": 2,
         "timestamp": 1785745755,
         "total": 418
+      },
+      {
+        "phases": {
+          "7": 324,
+          "9": 14
+        },
+        "temp_bucket": 2,
+        "timestamp": 1785751468,
+        "total": 360
       }
     ]
   },
@@ -182,7 +182,7 @@
           "material": "ABS",
           "nozzle_temp_max": 0,
           "nozzle_temp_min": 0,
-          "remaining_weight_g": 164.5767822265625,
+          "remaining_weight_g": 142.56614685058594,
           "spool_name": "Sunlu ABS - Red",
           "spoolman_id": 1,
           "total_weight_g": 1000.0
@@ -634,7 +634,7 @@
   "thermal": {
     "rates": {
       "extruder": {
-        "heat_rate": 3.094299793243408
+        "heat_rate": 3.220102548599243
       },
       "heater_bed": {
         "heat_rate": 4.832082748413086
