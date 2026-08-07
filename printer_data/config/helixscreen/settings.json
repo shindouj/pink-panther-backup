@@ -176,15 +176,15 @@
       "filament": {
         "external_spool": {
           "assigned": true,
-          "bed_temp": 105,
+          "bed_temp": 110,
           "brand": "Sunlu",
-          "color_rgb": 16711680,
+          "color_rgb": 3816507,
           "material": "ABS",
           "nozzle_temp_max": 0,
           "nozzle_temp_min": 0,
-          "remaining_weight_g": 0.0,
-          "spool_name": "Sunlu ABS - Red",
-          "spoolman_id": 1,
+          "remaining_weight_g": 35.707820892333984,
+          "spool_name": "Sunlu ABS - Black",
+          "spoolman_id": 2,
           "total_weight_g": 1000.0
         }
       },
