@@ -53,15 +53,6 @@
     "entries": [
       {
         "phases": {
-          "7": 331,
-          "9": 14
-        },
-        "temp_bucket": 2,
-        "timestamp": 1785690194,
-        "total": 367
-      },
-      {
-        "phases": {
           "7": 325,
           "9": 14
         },
@@ -142,6 +133,16 @@
         "temp_bucket": 2,
         "timestamp": 1786114171,
         "total": 435
+      },
+      {
+        "phases": {
+          "2": 5,
+          "7": 402,
+          "9": 14
+        },
+        "temp_bucket": 2,
+        "timestamp": 1786129618,
+        "total": 453
       }
     ]
   },
@@ -182,7 +183,7 @@
           "material": "ABS",
           "nozzle_temp_max": 0,
           "nozzle_temp_min": 0,
-          "remaining_weight_g": 92.27832794189453,
+          "remaining_weight_g": 0.0,
           "spool_name": "3DJAKE ABS - Pastel Pink",
           "spoolman_id": 6,
           "total_weight_g": 1000.0
@@ -634,7 +635,7 @@
   "thermal": {
     "rates": {
       "extruder": {
-        "heat_rate": 3.0738518238067627
+        "heat_rate": 3.8005573749542236
       },
       "heater_bed": {
         "heat_rate": 4.778558731079102
