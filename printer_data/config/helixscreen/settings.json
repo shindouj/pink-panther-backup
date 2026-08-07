@@ -53,15 +53,6 @@
     "entries": [
       {
         "phases": {
-          "7": 384,
-          "9": 14
-        },
-        "temp_bucket": 2,
-        "timestamp": 1785677575,
-        "total": 419
-      },
-      {
-        "phases": {
           "7": 310,
           "9": 14
         },
@@ -142,6 +133,15 @@
         "temp_bucket": 2,
         "timestamp": 1786098747,
         "total": 356
+      },
+      {
+        "phases": {
+          "7": 347,
+          "9": 14
+        },
+        "temp_bucket": 2,
+        "timestamp": 1786099954,
+        "total": 382
       }
     ]
   },
@@ -182,7 +182,7 @@
           "material": "ABS",
           "nozzle_temp_max": 0,
           "nozzle_temp_min": 0,
-          "remaining_weight_g": 61.203819274902344,
+          "remaining_weight_g": 57.81429672241211,
           "spool_name": "Sunlu ABS - Red",
           "spoolman_id": 1,
           "total_weight_g": 1000.0
@@ -634,7 +634,7 @@
   "thermal": {
     "rates": {
       "extruder": {
-        "heat_rate": 2.8099207878112793
+        "heat_rate": 3.0738518238067627
       },
       "heater_bed": {
         "heat_rate": 4.778558731079102
