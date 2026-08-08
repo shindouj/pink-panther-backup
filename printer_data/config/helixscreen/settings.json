@@ -53,16 +53,6 @@
     "entries": [
       {
         "phases": {
-          "2": 5,
-          "7": 365,
-          "9": 19
-        },
-        "temp_bucket": 2,
-        "timestamp": 1785745755,
-        "total": 418
-      },
-      {
-        "phases": {
           "7": 324,
           "9": 14
         },
@@ -144,6 +134,15 @@
         "temp_bucket": 2,
         "timestamp": 1786194372,
         "total": 420
+      },
+      {
+        "phases": {
+          "7": 330,
+          "9": 14
+        },
+        "temp_bucket": 2,
+        "timestamp": 1786211130,
+        "total": 370
       }
     ]
   },
@@ -184,7 +183,7 @@
           "material": "ASA",
           "nozzle_temp_max": 0,
           "nozzle_temp_min": 0,
-          "remaining_weight_g": 920.8460693359375,
+          "remaining_weight_g": 873.7456665039063,
           "spool_name": "3DPower ASA - ASA Natural",
           "spoolman_id": 7,
           "total_weight_g": 1000.0
@@ -636,7 +635,7 @@
   "thermal": {
     "rates": {
       "extruder": {
-        "heat_rate": 3.910372495651245
+        "heat_rate": 2.9675302505493164
       },
       "heater_bed": {
         "heat_rate": 4.778558731079102
