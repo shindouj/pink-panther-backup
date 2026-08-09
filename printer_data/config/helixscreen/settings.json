@@ -53,15 +53,6 @@
     "entries": [
       {
         "phases": {
-          "7": 318,
-          "9": 14
-        },
-        "temp_bucket": 2,
-        "timestamp": 1786098747,
-        "total": 356
-      },
-      {
-        "phases": {
           "7": 347,
           "9": 14
         },
@@ -143,6 +134,15 @@
         "temp_bucket": 2,
         "timestamp": 1786283780,
         "total": 391
+      },
+      {
+        "phases": {
+          "7": 310,
+          "9": 14
+        },
+        "temp_bucket": 2,
+        "timestamp": 1786295284,
+        "total": 346
       }
     ]
   },
@@ -177,15 +177,15 @@
       "filament": {
         "external_spool": {
           "assigned": true,
-          "bed_temp": 0,
-          "brand": "3DPower",
-          "color_rgb": 11051157,
-          "material": "ASA",
+          "bed_temp": 110,
+          "brand": "Filhub",
+          "color_rgb": 14980780,
+          "material": "ABS",
           "nozzle_temp_max": 0,
           "nozzle_temp_min": 0,
-          "remaining_weight_g": 694.299560546875,
-          "spool_name": "3DPower ASA - ASA Natural",
-          "spoolman_id": 7,
+          "remaining_weight_g": 275.12457275390625,
+          "spool_name": "Filhub ABS - High Speed Pink",
+          "spoolman_id": 4,
           "total_weight_g": 1000.0
         }
       },
@@ -635,7 +635,7 @@
   "thermal": {
     "rates": {
       "extruder": {
-        "heat_rate": 3.6856868267059326
+        "heat_rate": 2.8585352897644043
       },
       "heater_bed": {
         "heat_rate": 4.778558731079102
