@@ -53,15 +53,6 @@
     "entries": [
       {
         "phases": {
-          "7": 310,
-          "9": 14
-        },
-        "temp_bucket": 2,
-        "timestamp": 1786221753,
-        "total": 349
-      },
-      {
-        "phases": {
           "2": 5,
           "7": 400,
           "9": 19
@@ -141,6 +132,15 @@
         "temp_bucket": 2,
         "timestamp": 1786301187,
         "total": 378
+      },
+      {
+        "phases": {
+          "7": 46,
+          "9": 14
+        },
+        "temp_bucket": 2,
+        "timestamp": 1786301848,
+        "total": 373
       }
     ]
   },
@@ -181,7 +181,7 @@
           "material": "ABS",
           "nozzle_temp_max": 0,
           "nozzle_temp_min": 0,
-          "remaining_weight_g": 260.9940185546875,
+          "remaining_weight_g": 259.8858642578125,
           "spool_name": "Filhub ABS - High Speed Pink",
           "spoolman_id": 4,
           "total_weight_g": 1000.0
@@ -633,7 +633,7 @@
   "thermal": {
     "rates": {
       "extruder": {
-        "heat_rate": 2.850519895553589
+        "heat_rate": 3.493218183517456
       },
       "heater_bed": {
         "heat_rate": 4.778558731079102
