@@ -53,15 +53,6 @@
     "entries": [
       {
         "phases": {
-          "7": 310,
-          "9": 14
-        },
-        "temp_bucket": 2,
-        "timestamp": 1786295284,
-        "total": 346
-      },
-      {
-        "phases": {
           "7": 330,
           "9": 14
         },
@@ -141,6 +132,15 @@
         "temp_bucket": 2,
         "timestamp": 1786529096,
         "total": 347
+      },
+      {
+        "phases": {
+          "7": 342,
+          "9": 14
+        },
+        "temp_bucket": 2,
+        "timestamp": 1786530110,
+        "total": 424
       }
     ]
   },
@@ -177,11 +177,13 @@
           "assigned": true,
           "bed_temp": 110,
           "brand": "Filhub",
+          "catalog_id": "",
           "color_rgb": 14980780,
           "material": "ABS",
           "nozzle_temp_max": 0,
           "nozzle_temp_min": 0,
-          "remaining_weight_g": 248.7765655517578,
+          "product_name": "",
+          "remaining_weight_g": 246.62033081054688,
           "spool_name": "Filhub ABS - High Speed Pink",
           "spoolman_id": 4,
           "total_weight_g": 1000.0
@@ -238,7 +240,7 @@
             "temperature_sensor Cartographer_MCU",
             "temperature_fan controller_fan_2"
           ],
-          "timestamp": "2026-08-12T10:14:28Z"
+          "timestamp": "2026-08-12T10:14:46Z"
         },
         "optional": []
       },
@@ -633,10 +635,10 @@
   "thermal": {
     "rates": {
       "extruder": {
-        "heat_rate": 2.869861125946045
+        "heat_rate": 3.0616159439086914
       },
       "heater_bed": {
-        "heat_rate": 4.778558731079102
+        "heat_rate": 3.582059383392334
       }
     }
   },
