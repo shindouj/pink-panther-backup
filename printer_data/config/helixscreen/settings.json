@@ -53,15 +53,6 @@
     "entries": [
       {
         "phases": {
-          "7": 342,
-          "9": 14
-        },
-        "temp_bucket": 2,
-        "timestamp": 1786530110,
-        "total": 424
-      },
-      {
-        "phases": {
           "7": 334,
           "9": 14
         },
@@ -141,6 +132,16 @@
         "temp_bucket": 2,
         "timestamp": 1787861302,
         "total": 375,
+        "window": 1
+      },
+      {
+        "phases": {
+          "2": 5,
+          "9": 19
+        },
+        "temp_bucket": 2,
+        "timestamp": 1789546626,
+        "total": 390,
         "window": 1
       }
     ]
@@ -641,7 +642,7 @@
   "thermal": {
     "rates": {
       "extruder": {
-        "heat_rate": 2.4570152759552
+        "heat_rate": 3.611877679824829
       },
       "heater_bed": {
         "heat_rate": 3.7122247219085693
