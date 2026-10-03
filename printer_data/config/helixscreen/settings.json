@@ -53,43 +53,6 @@
     "entries": [
       {
         "phases": {
-          "7": 8,
-          "9": 14
-        },
-        "temp_bucket": 2,
-        "timestamp": 1786901197,
-        "total": 329
-      },
-      {
-        "phases": {
-          "7": 316,
-          "9": 14
-        },
-        "temp_bucket": 2,
-        "timestamp": 1786904298,
-        "total": 351
-      },
-      {
-        "phases": {
-          "2": 5,
-          "9": 14
-        },
-        "temp_bucket": 2,
-        "timestamp": 1787848036,
-        "total": 427,
-        "window": 1
-      },
-      {
-        "phases": {
-          "9": 14
-        },
-        "temp_bucket": 2,
-        "timestamp": 1787855732,
-        "total": 424,
-        "window": 1
-      },
-      {
-        "phases": {
           "9": 14
         },
         "temp_bucket": 2,
@@ -146,6 +109,46 @@
         "temp_bucket": 2,
         "timestamp": 1791052823,
         "total": 414,
+        "window": 1
+      },
+      {
+        "phases": {
+          "7": 47,
+          "9": 14
+        },
+        "temp_bucket": 2,
+        "timestamp": 1791055066,
+        "total": 413,
+        "window": 1
+      },
+      {
+        "phases": {
+          "7": 49,
+          "9": 14
+        },
+        "temp_bucket": 2,
+        "timestamp": 1791057133,
+        "total": 476,
+        "window": 1
+      },
+      {
+        "phases": {
+          "7": 45,
+          "9": 14
+        },
+        "temp_bucket": 2,
+        "timestamp": 1791058426,
+        "total": 416,
+        "window": 1
+      },
+      {
+        "phases": {
+          "7": 48,
+          "9": 14
+        },
+        "temp_bucket": 2,
+        "timestamp": 1791063481,
+        "total": 439,
         "window": 1
       }
     ]
@@ -646,10 +649,10 @@
   "thermal": {
     "rates": {
       "extruder": {
-        "heat_rate": 1.4693260192871094
+        "heat_rate": 1.6234849691390991
       },
       "heater_bed": {
-        "heat_rate": 2.8566842079162598
+        "heat_rate": 3.413651943206787
       }
     }
   },
