@@ -53,43 +53,6 @@
     "entries": [
       {
         "phases": {
-          "7": 334,
-          "9": 14
-        },
-        "temp_bucket": 2,
-        "timestamp": 1786530922,
-        "total": 424
-      },
-      {
-        "phases": {
-          "2": 5,
-          "7": 353,
-          "9": 19
-        },
-        "temp_bucket": 2,
-        "timestamp": 1786895707,
-        "total": 403
-      },
-      {
-        "phases": {
-          "7": 326,
-          "9": 14
-        },
-        "temp_bucket": 2,
-        "timestamp": 1786898518,
-        "total": 361
-      },
-      {
-        "phases": {
-          "7": 342,
-          "9": 14
-        },
-        "temp_bucket": 2,
-        "timestamp": 1786900253,
-        "total": 377
-      },
-      {
-        "phases": {
           "7": 8,
           "9": 14
         },
@@ -142,6 +105,47 @@
         "temp_bucket": 2,
         "timestamp": 1789546626,
         "total": 390,
+        "window": 1
+      },
+      {
+        "phases": {
+          "2": 383,
+          "7": 48,
+          "9": 19
+        },
+        "temp_bucket": 2,
+        "timestamp": 1791045165,
+        "total": 496,
+        "window": 1
+      },
+      {
+        "phases": {
+          "7": 47,
+          "9": 14
+        },
+        "temp_bucket": 2,
+        "timestamp": 1791048100,
+        "total": 546,
+        "window": 1
+      },
+      {
+        "phases": {
+          "7": 46,
+          "9": 14
+        },
+        "temp_bucket": 2,
+        "timestamp": 1791050575,
+        "total": 411,
+        "window": 1
+      },
+      {
+        "phases": {
+          "7": 46,
+          "9": 14
+        },
+        "temp_bucket": 2,
+        "timestamp": 1791052823,
+        "total": 414,
         "window": 1
       }
     ]
@@ -642,10 +646,10 @@
   "thermal": {
     "rates": {
       "extruder": {
-        "heat_rate": 3.611877679824829
+        "heat_rate": 1.4693260192871094
       },
       "heater_bed": {
-        "heat_rate": 3.7122247219085693
+        "heat_rate": 2.8566842079162598
       }
     }
   },
